@@ -1,3 +1,5 @@
+var __USERRULES__ = [];
+
 // Author: iBug <ibugone.com>
 // Time: 2020-06-21 19:56:05 GMT+8
 
@@ -34,7 +36,14 @@ function isLan(host) {
 var proxy = __PROXY__;
 var direct = "DIRECT";
 
+var userrules = __USERRULES__;
+
 function FindProxyForURL(url, host) {
+  for (var i = 0; i < userrules.length; i++) {
+    if(host.endsWith(userrules[i]))
+      return direct;
+  }
+	
   var remote = dnsResolve(host);
   if (!remote || remote.indexOf(":") !== -1) {
     // resolution failed or is IPv6 addr
