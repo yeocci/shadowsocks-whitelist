@@ -1,6 +1,11 @@
 var __USERRULES__ = [
+"gamer.com.tw",
 "github.com",
 "gqqnbig.me",
+"ipm.edu.mo",
+"nexusmods.com",
+"superuser.com",
+"wordpress.org",
 ];
 
 // Author: iBug <ibugone.com>
