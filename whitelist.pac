@@ -1,9 +1,15 @@
 var __USERRULES__ = [
-"gamer.com.tw",
+"gaming-fans.com",
 "github.com",
 "gqqnbig.me",
+"greasyfork.org",
 "ipm.edu.mo",
+"jetbrains.com",
+"namesilo.com",
 "nexusmods.com",
+"sourceforge.net",
+"sqlitebrowser.org",
+"stackpath.bootstrapcdn.com",
 "superuser.com",
 "wordpress.org",
 ];
