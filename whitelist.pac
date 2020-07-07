@@ -1,4 +1,6 @@
 var __USERRULES__ = [
+"certbot.eff.org",
+"ems.post",
 "gaming-fans.com",
 "github.com",
 "gqqnbig.me",
@@ -7,6 +9,7 @@ var __USERRULES__ = [
 "jetbrains.com",
 "namesilo.com",
 "nexusmods.com",
+"sectigostore.com",
 "sourceforge.net",
 "sqlitebrowser.org",
 "stackpath.bootstrapcdn.com",
