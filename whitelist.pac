@@ -7,7 +7,6 @@ var __USERRULES__ = [
 "ems.post",
 "gaming-fans.com",
 "gaming.stackexchange.com",
-"github.com",
 "gqqnbig.me",
 "greasyfork.org",
 "jetbrains.com",
