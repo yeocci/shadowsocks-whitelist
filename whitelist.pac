@@ -2,17 +2,22 @@ var __USERRULES__ = [
 ".mo", //macao sites
 "certbot.eff.org",
 "chase.com",
+"chasecdn.com",
 "desktop.line-scdn.net",
 "dm530.net",
+"doubao.cc",
 "ems.post",
 "gaming-fans.com",
 "gaming.stackexchange.com",
 "gqqnbig.me",
 "greasyfork.org",
+"gstatic.com",
+"ifttt.com",
 "jetbrains.com",
 "kayak.com",
 "namesilo.com",
 "nexusmods.com",
+"phncdn.com", //pronhub dependencies
 "sectigostore.com",
 "software-download.microsoft.com",
 "sourceforge.net",
@@ -23,6 +28,7 @@ var __USERRULES__ = [
 "vmware.com",
 "witcher3map.com",
 "wordpress.org",
+"zimbra.cs.ucla.edu",
 ];
 
 // Author: iBug <ibugone.com>
