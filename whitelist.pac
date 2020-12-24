@@ -35,7 +35,6 @@ var __USERRULES__ = [
 "vmware.com",
 "witcher3map.com",
 "wordpress.org",
-"ytimg.com",
 "zimbra.cs.ucla.edu",
 ];
 
